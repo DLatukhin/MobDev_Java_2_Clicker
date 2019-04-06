@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">mobile_task_1_2_Clicker</string>
+    <string name="clicked">Счет:</string>
+    <string name="increment">Увеличить</string>
+    <string name="decrement">Уменьшить</string>
+    <string name="drop">Сбросить</string>
 </resources>
